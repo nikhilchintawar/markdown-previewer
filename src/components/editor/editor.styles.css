@@ -1,0 +1,11 @@
+#editor{
+    background-color: #c0d8d8;
+    border: 1px solid black;
+    padding: 10px 15px;
+    border-radius: 0px 0px 10px 10px;
+}
+input:focus,
+textarea {
+  outline: none !important;
+}
+

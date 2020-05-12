@@ -1,0 +1,8 @@
+#preview{
+    background-color: #c0d8d8;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 0px 0px 10px 10px;
+    overflow-y: scroll;
+    max-height: 100vh;
+}
